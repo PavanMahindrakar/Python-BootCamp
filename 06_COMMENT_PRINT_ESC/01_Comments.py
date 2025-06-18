@@ -1,0 +1,10 @@
+print('hey this is a comment')
+
+#COMMENT NO. 1
+
+# THESE ARE SINGLE LINE COMMENTS
+
+#COMMENT NO. 2
+
+''' THIS IS A MULTI-LINE COMMENT
+    THIS IS A MULTI-LINE COMMENT    '''

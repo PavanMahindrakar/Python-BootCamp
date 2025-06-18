@@ -42,3 +42,4 @@
 "" 
 "## Python Handbook" 
 "Includes an additional PDF for quick reference: *Python+Handbook.pdf*"ÿ 
+"## ?? About This BootCamp\n\nThis *Python BootCamp* repository is a structured and beginner-friendly learning track aimed at helping new learners get started with Python programming. It includes organized modules, examples, and practice materials to build a solid foundation in Python step by step.\n\nThe content is curated to provide a clear and hands-on approach, making it easy to follow and apply what you learn. Ideal for students, self-learners, and anyone interested in entering the world of programming through Python.\n\nHappy Learning! ??"ÿ

@@ -1,3 +1,6 @@
+#operator overloading allows us to define how operators behave with user-defined classes
+# Operator Overloading in Python allows us to define how operators like +, -, *, etc. behave with user-defined classes.
+# This is done by defining special methods in the class, such as __add__ for the + operator.
 class Point:
     def __init__(self, x, y):
         self.x = x

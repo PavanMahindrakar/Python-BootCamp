@@ -16,7 +16,11 @@ class Employee:
     def __repr__(self):
         return f"name: {self.name}, salary: {self.salary}"
     
+    def __len__(self):
+        return len(self.name)
+    
 e = Employee("Alice", 50000)
 print(e.name , e.salary)
 print(str(e))  # Using __str__ method to get a string representation of the object
 print(repr(e))  # Using __repr__ method to get a detailed representation of the object
+print(len(e))  # Using __len__ method to get the length of the name attribute
